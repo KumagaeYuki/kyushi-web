@@ -1,0 +1,3 @@
+[submodule "kyushi-ronbun"]
+	path = kyushi-ronbun
+	url = https://github.com/KumagaeYuki/kyushi-ronbun.git
