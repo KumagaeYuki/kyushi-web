@@ -1,0 +1,26 @@
+site_name: kyushi-web
+site_description: 旧司法試験（論文式試験）問題文のメモ
+repo_url: https://github.com/KumagaeYuki/kyushi-ronbun
+repo_name: KumagaeYuki/kyushi-ronbun
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: black
+      accent: amber
+nav:
+  - ホーム: index.md
+  - タグ: tags.md
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - attr_list
+plugins:
+  - tags
