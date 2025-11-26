@@ -8,7 +8,6 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.top
   palette:
     - scheme: default
       primary: black
